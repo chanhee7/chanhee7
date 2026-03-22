@@ -36,11 +36,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 </p>
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhee7&layout=compact)
-
-
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhee7&layout=compact&theme=radical)
 
 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
