@@ -39,8 +39,7 @@ You can click the Preview link to take a look at your changes.
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanhee7&layout=compact&theme=radical)
 
-📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:chanhee9505@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
+### 📞 Contact
+<a href="mailto:chanhee9505@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
